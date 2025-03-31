@@ -1,4 +1,4 @@
-module github.com/ljg-cqu/txt-sentences
+module github.com/ljg-cqu/txt-sentencers_cn
 
 go 1.19
 
